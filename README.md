@@ -4,7 +4,7 @@
 
 Submitted by: **Jordan Sukhnandan**
 
-Time spent: **8** hours spent in total
+Time spent: **7** hours spent in total
 
 ## User Stories
 
@@ -33,6 +33,8 @@ GIF created with [LiceCap](http://www.cockos.com/licecap/).
 ## Notes
 
 Describe any challenges encountered while building the app.
+- My LG Stylo 6 is not being detected an an android phone under android studio.
+- When I try to adjust the add button size to be smaller, it no longer appears on the screen.
 
 ## License
 
